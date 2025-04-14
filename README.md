@@ -36,6 +36,6 @@ Each entry provides specific details about the vehicle, making this dataset idea
 
 You can download the dataset from the following link:
 
-👉 [Click here to download from Google Drive](https://drive.google.com/uc?id=DOSYA_ID&export=download)
+👉 [Click here to download from Google Drive](https://drive.google.com/drive/folders/1lDcClUoJqpATohCM99O7xI6u8nNrWszN?usp=sharing)
 
 > 📁 *Data was meticulously compiled to ensure variety across brands, body types, and fuel efficiencies.*
