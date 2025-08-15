@@ -38,9 +38,9 @@ You can download the dataset from the following link:
 
 👉 [Click here to download from Google Drive](https://drive.google.com/drive/folders/1lDcClUoJqpATohCM99O7xI6u8nNrWszN?usp=sharing)
 
-> 📁 *Data was meticulously compiled to ensure variety across brands, body types, and fuel efficiencies.*
->
-> ## 📎 Dataset Link
+ 📁 *Data was meticulously compiled to ensure variety across brands, body types, and fuel efficiencies.*
+
+ ## 📎 Dataset Link
 
 You can access the dataset on Kaggle here:  
 [Fuel Consumption & CO2 Labeled Car Images Dataset](https://www.kaggle.com/datasets/mehmetalibilici/fuelconsumption-co2-labeled-car-images-dataset)
