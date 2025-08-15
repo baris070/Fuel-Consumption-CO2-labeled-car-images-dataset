@@ -39,3 +39,18 @@ You can download the dataset from the following link:
 👉 [Click here to download from Google Drive](https://drive.google.com/drive/folders/1lDcClUoJqpATohCM99O7xI6u8nNrWszN?usp=sharing)
 
 > 📁 *Data was meticulously compiled to ensure variety across brands, body types, and fuel efficiencies.*
+>
+> ## 📎 Dataset Link
+
+You can access the dataset on Kaggle here:  
+[Fuel Consumption & CO2 Labeled Car Images Dataset](https://www.kaggle.com/datasets/mehmetalibilici/fuelconsumption-co2-labeled-car-images-dataset)
+
+---
+
+## 📖 Citation
+
+Please cite this work ([IEEE link](https://ieeexplore.ieee.org/document/11101782)) wherever you use this dataset:  
+
+**Citation:**  
+M. A. Bilici, R. Toklu, A. E. Khader and P. Canbay, "Fuel Consumption Prediction from Car Images Using CNN-Based Deep and Transfer Learning for Energy Efficiency and Sustainability," 2025 9th International Symposium on Innovative Approaches in Smart Technologies (ISAS), Gaziantep, Turkiye, 2025, pp. 1-5, doi: 10.1109/ISAS66241.2025.11101782
+
